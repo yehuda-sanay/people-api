@@ -1,0 +1,30 @@
+{
+    "people":[
+        {
+            "img":"https://thumbs.dreamstime.com/b/front-portrait-white-young-woman-beauty-face-isolated-skin-care-concept-front-portrait-white-young-woman-213963368.jpg",
+            "firstName":"Shani",
+            "lastName":"Gil",
+            "phone":"0546965875"
+        },
+        {
+            "img":"https://images.unsplash.com/photo-1597223557154-721c1cecc4b0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8d29tYW4lMjBmYWNlfGVufDB8fDB8fA%3D%3D&w=1000&q=80",
+            "firstName":"Haya",
+            "lastName":"Ligalem",
+            "phone":"05269587454"
+        },
+        {
+            "img":"https://i.pinimg.com/736x/d1/dc/97/d1dc979c4664242c74b144a9b115de9c.jpg",
+            "firstName":"Natali",
+            "lastName":"Shimon",
+            "phone":"0538965745"
+        },
+        {
+            "img":"https://i.pinimg.com/736x/0a/e9/69/0ae969db95988c294e2f94d01f50c0e3.jpg",
+            "firstName":"Batya",
+            "lastName":"Zelalem",
+            "phone":"05485235412"
+        }
+
+    ]
+
+}
